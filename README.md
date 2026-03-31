@@ -1,2 +1,2 @@
 ## 🚀 Live App
-https://your-link.streamlit.app
+https://aswin987654-algonive-netflix-dashboard-app-5p8ayg.streamlit.app/
